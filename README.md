@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
