@@ -26,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0033-search-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
