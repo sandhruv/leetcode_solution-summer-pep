@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
