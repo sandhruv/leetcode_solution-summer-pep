@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
+| [0735-asteroid-collision](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
