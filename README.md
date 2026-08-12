@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0735-asteroid-collision) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
