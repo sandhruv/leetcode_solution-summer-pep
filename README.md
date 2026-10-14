@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sandhruv/leetcode_solution-summer-pep/tree/master/0485-max-consecutive-ones) |
